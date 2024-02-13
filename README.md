@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamraj5&label=Profile%20views&color=0e75b6&style=flat" alt="shyamraj5" /> </p>
 - ______ currently working as python odoo developer_____
+
 - 🌱 profficiency in  **Python Django,angular**
 
 - 💬 Ask me about **python Django,Django REST,Aungular**

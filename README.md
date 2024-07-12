@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python Django,Django REST,Aungular**
 
-- 📫 How to reach me **shyamrajkm5@gmail.com**
+- 📫 connect with me **shyamrajkm5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

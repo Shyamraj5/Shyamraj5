@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Odoo%20of%20ChatCool%20Bot;Used%20by%20over%20100,000%20users;Odoo+%2B%20Developer%20&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
-</p>
+<h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="codeing" width="400px" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 

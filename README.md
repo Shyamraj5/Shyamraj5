@@ -10,7 +10,7 @@
 
 - 🌱 profficiency in  **Python Django,angular**
 
-- 💬 Ask me about **python Django,Django REST,Aungular**
+- 💬 Ask me about **Python,Odoo,Django,Django REST,Aungular**
 
 - 📫 connect with me **shyamrajkm5@gmail.com**
 

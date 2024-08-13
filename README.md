@@ -21,4 +21,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="[https://github.com/Shyamraj5"><img src="https://skillicons.dev/icons?i=vscode,,github,django,css,html,js,bots"></a> </p>
+<p align="left"> <a href="[https://github.com/Shyamraj5"><img src="https://skillicons.dev/icons?i=vscode,github,django,angular,flutter,css,html,js,"></a> </p>

@@ -20,5 +20,5 @@
 <a href="https://instagram.com/_shyamraj.sr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shyamraj.sr" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools::</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://github.com/Shyamraj5"><img src="https://skillicons.dev/icons?i=vscode,github,django,angular,flutter,python,css,html,js,bash"></a> </p>

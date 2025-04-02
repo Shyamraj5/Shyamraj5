@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%20A%20passionate%20web%20developer%20;%20Odoo%20developer%20;%20Python%20Django%20fullstack%20developer&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%20Odoo%20developer%20;%20Python%20Django%20fullstack%20developer&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
 </p>
 
 <img align="right" alt="codeing" width="400px" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">

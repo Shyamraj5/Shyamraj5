@@ -1,6 +1,10 @@
 ```py
 class Shyam(Human):
-    """ Friendly dude who sometimes shoot deadly lazers """
+    """Writes code. Fixes bugs. Breaks stuff. Repeats.
+
+    Currently debugging life and software. Mostly software.
+    """
+
 ```
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%20Odoo%20developer%20;%20Python%20Django%20fullstack%20developer&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />

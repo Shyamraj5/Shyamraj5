@@ -1,6 +1,6 @@
 ```py
 class Shyam(Human):
-    """Writes code. Fixes bugs. Breaks stuff. Repeats.
+    """ Writes code. Fixes bugs. Breaks stuff. Repeats.
 
     Currently debugging life and software. Mostly software.
     """
